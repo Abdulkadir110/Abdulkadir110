@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=Sakariyah%20Abdulkadir%20Opeyemi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Data%20Scientist%20%7C%20Backend%20%26%20Database%20Developer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Header Banner (Self-Hosted SVG in Repository: 100% Uptime, Zero Lag) -->
+  <img src="./header.svg" width="100%" alt="Sakariyah Abdulkadir Opeyemi" />
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/Abdulkadir110">
@@ -124,5 +124,4 @@ Feel free to connect, collaborate, or discuss software engineering, databases, a
 
 </div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=100&section=footer" width="100%" alt="Footer Wave" />
+
