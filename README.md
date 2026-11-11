@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=210&section=header&text=Abdulquadir%20Sheu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Software%20Engineer%20%7C%20Enterprise%20System%20Architecture&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=210&section=header&text=Sakariyah%20Abdulkadir%20Opeyemi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Software%20Engineer%20%7C%20Enterprise%20System%20Architecture&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/Abdulkadir110">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there!+%F0%9F%91%8B+I'm+Abdulquadir+Sheu;Backend+Software+Engineer+(B.Sc.+Computer+Science);Java+(Spring+Boot)+%26+Python+(FastAPI%2C+Flask);High-Throughput+RESTful+APIs+%26+Distributed+Services;Clean+Code+%E2%80%A2+TDD+%E2%80%A2+Database+Optimization+%E2%80%A2+OWASP+Security;Architecting+reliable%2C+enterprise-grade+systems+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi+there!+%F0%9F%91%8B+I'm+Sakariyah+Abdulkadir+Opeyemi;Backend+Software+Engineer+(B.Sc.+Computer+Science);Java+(Spring+Boot)+%26+Python+(FastAPI%2C+Flask);High-Throughput+RESTful+APIs+%26+Distributed+Services;Clean+Code+%E2%80%A2+TDD+%E2%80%A2+Database+Optimization+%E2%80%A2+OWASP+Security;Architecting+reliable%2C+enterprise-grade+systems+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -30,7 +30,7 @@
 
 ```yaml
 profile:
-  name: Abdulquadir Sheu
+  name: Sakariyah Abdulkadir Opeyemi
   education: B.Sc. in Computer Science
   specialization: Enterprise Backend Architecture & Distributed Services
   core_languages: [Java, Python, SQL]
