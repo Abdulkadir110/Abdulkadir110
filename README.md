@@ -1,13 +1,18 @@
 <div align="center">
 
-  <!-- Header Banner (Self-Hosted SVG in Repository: 100% Uptime, Zero Lag) -->
-  <img src="./header.svg" width="100%" alt="Sakariyah Abdulkadir Opeyemi" />
-
-  <!-- Animated Typing SVG -->
+  <!-- Main Name Header (Instant Loading, Zero-Dependency) -->
   <a href="https://github.com/Abdulkadir110">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi+there!+%F0%9F%91%8B+I'm+Sakariyah+Abdulkadir+Opeyemi;Software+Engineer+%26+Data+Scientist;Backend+Development+with+Java%2C+Spring+Boot+%26+Maven;Modern+API+Development+with+Python+%26+FastAPI;Database+Design+%26+Modeling+with+MySQL+Workbench;Extracting+Insights+with+Data+Science+%26+Analytics+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&pause=4000&color=38BDF8&center=true&vCenter=true&width=750&height=55&lines=Sakariyah+Abdulkadir+Opeyemi" alt="Sakariyah Abdulkadir Opeyemi" />
   </a>
 
+  <!-- Animated Rotating Roles & Specialties -->
+  <a href="https://github.com/Abdulkadir110">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=A5B4FC&center=true&vCenter=true&width=750&lines=Software+Engineer+%E2%80%A2+Data+Scientist;Backend+Development+with+Java%2C+Spring+Boot+%26+Maven;Modern+API+Development+with+Python+%26+FastAPI;Database+Design+%26+Modeling+with+MySQL+Workbench;Data+Science+%26+Analytics+with+Pandas+%26+NumPy+%F0%9F%9A%80" alt="Specialties and Tech Stack" />
+  </a>
+
+  <br />
+
+  <!-- Quick Action Contact Badges -->
   <p align="center">
     <a href="mailto:sheuabdulquadir17@gmail.com">
       <img src="https://img.shields.io/badge/Email-sheuabdulquadir17%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -123,5 +128,3 @@ Feel free to connect, collaborate, or discuss software engineering, databases, a
 [![GitHub](https://img.shields.io/badge/GitHub-Abdulkadir110-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdulkadir110)
 
 </div>
-
-
