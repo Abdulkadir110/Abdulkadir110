@@ -89,16 +89,28 @@ developer:
 
 <div align="center">
 
-  <!-- Verified Active Stats Card -->
+  <!-- GitHub Achievements & Trophies -->
+  <a href="https://github.com/Abdulkadir110">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abdulkadir110&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  </a>
+
+  <br /><br />
+
+  <!-- Core Stats & Top Languages -->
   <img height="165em" src="https://github-stats-extended.vercel.app/api?username=Abdulkadir110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Sakariyah's GitHub Stats" />
-  
-  <!-- Verified Active Top Languages Card -->
   <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdulkadir110&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
   <br />
 
-  <!-- Verified Active Streak Card -->
+  <!-- Contribution Streak -->
   <img height="165em" src="https://streak-stats.demolab.com/?user=Abdulkadir110&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br /><br />
+
+  <!-- Interactive Commit Activity Wave Graph -->
+  <a href="https://github.com/Abdulkadir110">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulkadir110&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Sakariyah's Activity Graph" />
+  </a>
 
 </div>
 
